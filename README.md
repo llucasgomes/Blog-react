@@ -5,7 +5,7 @@
   <img src="https://github.com/llucasgomes/Blog-react/blob/main/src/assets/blog-em-react.png" alt="Imagem do Desafio 1"/>
   
 </p>
-## Indice
+#Indice
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
